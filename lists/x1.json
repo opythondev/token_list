@@ -1,0 +1,602 @@
+[
+    {
+        "tokenContractAddress": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x74b7f16337b8972027f6196a17a631ac6de26d22",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+        "name": "USDe",
+        "symbol": "USDE",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x779ded0c9e1022225f8e0630b35a9b54be713736",
+        "name": "USD\u20ae0",
+        "symbol": "USD\u20ae0",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+        "name": "Staked USDe",
+        "symbol": "SUSDE",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x4ae46a509f6b1d9056937ba4500cb143933d2dc8",
+        "name": "Global Dollar",
+        "symbol": "USDG",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x8368e77bc6c8d20c954d8b94f8f42ebb04a35aea",
+        "name": "Baby Doge Coin",
+        "symbol": "BABYDOGE",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x0cc24c51bf89c00c5affbfcf5e856c25ecbdb48e",
+        "name": "XDOG",
+        "symbol": "XDOG",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xa7bc49339b416c310f0c0d9a8e6aaa0d71178696",
+        "name": "DOGSHIT",
+        "symbol": "DOGSHIT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xce9ffb6e865641ebaf4fea671f99fa8303ddf647",
+        "name": "Oki Token",
+        "symbol": "OKI",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x68286607a1d43602d880d349187c3c48c0fd05e6",
+        "name": "QuickSwap",
+        "symbol": "QUICK",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x31c825509c0fafe91dcc812051e8ef292a85b2a2",
+        "name": "Pearl",
+        "symbol": "PEARL",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xe538905cf8410324e03a5a23c1c177a474d59b2b",
+        "name": "Wrapped OKB",
+        "symbol": "WOKB",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x6bff3b94b9bd51b8adf3b84ffc50c39e3fe18816",
+        "name": "XL CAT",
+        "symbol": "XLCAT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x68a14871bb1038e21b555f0c143836e36e669595",
+        "name": "X Index",
+        "symbol": "X",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x7e11676c8ff185757372c78e843a1199c7c80a1a",
+        "name": "Star Link",
+        "symbol": "SLK",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x903358faf7c6304afbd560e9e29b12ab1b8fddc5",
+        "name": "DOG",
+        "symbol": "DOG",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xb313d39caf815c58129ad67eea451dc57c30d96e",
+        "name": "KINGX",
+        "symbol": "KINGX",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x50878ac71dfdff31e1bc862821c4cd884a5b2b46",
+        "name": "XMOON",
+        "symbol": "XMOON",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x88bead696b4ec24a7490369fcc7f8851c21071de",
+        "name": "XFist",
+        "symbol": "XFIST",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xf86af2fbcf6a0479b21b1d3a4af3893f63207fe7",
+        "name": "GOUT",
+        "symbol": "GOUT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xde0b68213b971a7305209e5103fffb7d07d87777",
+        "name": "XRATS",
+        "symbol": "XRATS",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xdd901ad1c085553036f5a03e49628ec8e5859595",
+        "name": "\u554a\u5bf9\u5bf9\u5bf9",
+        "symbol": "\u554a\u5bf9\u5bf9\u5bf9",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x1f0c5a04fcce06c314eb3783762fd001beb99595",
+        "name": "hotfunsaga",
+        "symbol": "HOT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xf162d7f55a90476349cc0ae9812adeabbbe573b9",
+        "name": "Ben",
+        "symbol": "BEN",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x857bdb4dc9a571b0b1136db18f573764eb424e38",
+        "name": "BabyMove",
+        "symbol": "BABYMOVE",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x8854b281cdf5940ebd4a753f8d37f49775058e03",
+        "name": "OKAYFUN",
+        "symbol": "OKAY",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xffe39135f6eec356b5888cadeefab01093219595",
+        "name": "X42",
+        "symbol": "X42",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x3c5234a94547512378ec87e2afde243ec6d79595",
+        "name": "MSHIT",
+        "symbol": "XSHIT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xb59c818d46ac6df8e8d21040b28cde0c88c89595",
+        "name": "Rabbit",
+        "symbol": "RABBIT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x4c225fb675c0c475b53381463782a7f741d59763",
+        "name": "OEOE",
+        "symbol": "OEOE",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x86758eac75ac2e9080765913c46a80d4844e9595",
+        "name": "XBULL",
+        "symbol": "XBULL",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xa99b6edc8f6d848c05e5dacb1a3765774f811111",
+        "name": "Cowboy",
+        "symbol": "COWBOY",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xd0237e1737f9da6e4f9166d1ef3c0d081ef79595",
+        "name": "ELON",
+        "symbol": "ELON",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x0ccacd2d05aecc6a01ced171afbc1a5941019595",
+        "name": "okk",
+        "symbol": "KOO",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x29e9a80663c4faa82ea132594d8d920bd6739595",
+        "name": "STAR",
+        "symbol": "STAR",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xdcc83b32b6b4e95a61951bfcc9d71967515c0fca",
+        "name": "Xwizard",
+        "symbol": "XWIZARD",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x0a0247f87f7436605d35474c87a6ff1e55c7b6de",
+        "name": "XKing",
+        "symbol": "XKING",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xaa7edea4f673b0259e82628103f064e884ad3d9b",
+        "name": "XFROG",
+        "symbol": "XFROG",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x7b8c529dbf3953a77174083a6ed33ae77bc59498",
+        "name": "BurnKing",
+        "symbol": "BURNKING",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x980855ca48b601df572e6877ff908c8bed38bcb5",
+        "name": "OKOX",
+        "symbol": "OKOX",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x0af1b7d7a063b339afe7a64c8e7fd71693e4fe45",
+        "name": "StarsMint Stars",
+        "symbol": "STARS",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x7f12a455c620866d5eb7170ff4f159d312f7385c",
+        "name": "XAT",
+        "symbol": "XAT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xb3e7c5d277bccff26bfe5ba90e22fc6d5ac8c8b3",
+        "name": "XBOOS",
+        "symbol": "XBOOS",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xfdc547a24e482730b9aefbe7ad77e941dcc7fbd6",
+        "name": "Xynergy",
+        "symbol": "XYNERGY",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x8cbf0f2460a8a168ef7e0931aa042e4611c3601c",
+        "name": "XOSK",
+        "symbol": "XOSK",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x5839244eab49314bccc0fa76e3a081cb1a461111",
+        "name": "FDOG",
+        "symbol": "FDOG",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x96e049d796732b2e93e2a520ca43c2f05e37fce6",
+        "name": "Grodo AI",
+        "symbol": "GRODO",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x5ce042cb06a8a2d9cdc4c9b714b12210a75bd300",
+        "name": "XFLOKI",
+        "symbol": "XFLOKI",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xc3f431cd1b7220cca703ee08c24ca645a71e72c8",
+        "name": "ODOG",
+        "symbol": "ODOG",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x37988200f2fd791d23837a71e64e4d1d83dc1111",
+        "name": "XCAT",
+        "symbol": "XCAT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xcd9f03913e814c87f485519b238f26d7201f64a0",
+        "name": "OKJ",
+        "symbol": "OKJ",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xf1110e05878b5eb5cd62cc332e0079e8c3e6ab99",
+        "name": "Flame",
+        "symbol": "FLAME",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x387d9a8f8424b12b8aad2d1b7618726ba8356789",
+        "name": "Potato",
+        "symbol": "POTATO",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x52f3cd4b4aa689cc85202704d14e539b5f97689a",
+        "name": "731",
+        "symbol": "731",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x76744f1758a67c4aa22f58ebdde455cbc8a98c6e",
+        "name": "oeoe",
+        "symbol": "OEOE",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xfce797247eb4d41b93798f06eafd1b499c38e133",
+        "name": "3",
+        "symbol": "3",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x4d87750a795b0ae310a24349fa9108585100a90e",
+        "name": "HOW TO FLY",
+        "symbol": "PUFF",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x38273c0af7efb2d410923f3c102d446ac1d7daab",
+        "name": "CATSHIT",
+        "symbol": "CATSHIT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x4122a43daecd13cfb2543ad339470fd87bc11111",
+        "name": "OKIE",
+        "symbol": "OKIE",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xe8e8a1df1e26277a2875a0bda912ab9f19843a53",
+        "name": "XSHIB",
+        "symbol": "XSHIB",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xcb362e604c167830f72426c5060046704129fdd7",
+        "name": "XGG",
+        "symbol": "XGG",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x5c8a4613fb70f5e685e714fef1f14dee82b88ee0",
+        "name": "Xlayer Cat",
+        "symbol": "XCAT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xf03d1b8666ff16e3372103704dd7f6740dc7bebc",
+        "name": "OKDOG",
+        "symbol": "OKDOG",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xc9590a085d1193bde35581f8bed83b5877445864",
+        "name": "feeling",
+        "symbol": "FEELING",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x87669801a1fad6dad9db70d27ac752f452989667",
+        "name": "\u725b\u9a6c",
+        "symbol": "NIUMA",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x9b4645e3b4de3f7e127f205f302f4864e6efc3b2",
+        "name": "StarsMint XMOON",
+        "symbol": "XMOON",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x55140af9289066079f10fc23fd719d88578f9595",
+        "name": "WCSHIT",
+        "symbol": "WCSHIT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x7f7259b038bee0d8de7122b0cb2cc7288e269595",
+        "name": "\u725b\u5e01\u5e01",
+        "symbol": "NBB",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x00d60b54b02cbc121b0c84c087df5fbf396ee626",
+        "name": "WUKONG",
+        "symbol": "WUKONG",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x16d69325bc7e6978c2cf178c7fd4b45b990929ad",
+        "name": "Xbox",
+        "symbol": "XBOX",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xd73c18a770a6369727716f792513689ba8ff0ac4",
+        "name": "BurnMarmot",
+        "symbol": "BURNMARMOT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x398b3269b7c758da0fe294152b560ea61a979595",
+        "name": "\u97e9\u7acb",
+        "symbol": "\u97e9\u7acb",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x095c1a875b985be6e2c86b2cae0b66a3df702e6a",
+        "name": "Xwawa",
+        "symbol": "XWAWA",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x57936b9e81ce10d047f4e6dc7df4beaa33fa492b",
+        "name": "XRABBIT",
+        "symbol": "XRABBIT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xbb74afc5012c5a3fbdc90e05502d2adc70cd02bc",
+        "name": "FROG",
+        "symbol": "FROG",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xda90ac6898b841a86960e41ea9eec44471dfe02b",
+        "name": "OKBDOGE",
+        "symbol": "OKBDOGE",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xee07e5c35fde1b9b296394ab66cb71b204a67777",
+        "name": "Accelerate Web3",
+        "symbol": "AC3",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x7b505cae741db353bf3b09520985a2e3726273fd",
+        "name": "okking",
+        "symbol": "OKKING",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x2df6295e1f79751f39594554f1fd93a838430c71",
+        "name": "OKIECAT",
+        "symbol": "OKIECAT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x246e5ef65d29dd6375413959c1378f7612a8b983",
+        "name": "DOGFART ON X",
+        "symbol": "DOGFART",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x49cf0a6b7040839554c7efe94a99050c56056708",
+        "name": "BURN",
+        "symbol": "BURN",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xf15dcc26b32c41d973c92fec4faf254002b732d7",
+        "name": "OKBMOON",
+        "symbol": "OKBMOON",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x5a94df4c0777514b6a0cc95d9bca66afcca667f6",
+        "name": "DEFISHIT",
+        "symbol": "FIST",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x698004f343971034c308248866bdcb568a291933",
+        "name": "X FWOG",
+        "symbol": "XFWOG",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xda7db9353a4edd54725baea1f58bed6754b56d6d",
+        "name": "OKFUN Token",
+        "symbol": "OKF",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x137577274305d145568139b8da7c5ad39673c6ba",
+        "name": "For the fun of X Layer",
+        "symbol": "FORX",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x5b5e0f9be8be44f2cfa93f81d97ae363e8d2df23",
+        "name": "XCAT",
+        "symbol": "XCAT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x14c2686d9fcc0119c3a4b7a614c0f74045822560",
+        "name": "XNAT",
+        "symbol": "XNAT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xc86cf5c5ab3cf9b06c0f158b93a0426d080b01a0",
+        "name": "WAKA",
+        "symbol": "WAKA",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x00880ec7de7397e4e25ad5fbd69d97db91e90372",
+        "name": "\u6b27\u6613\u4eba\u751f",
+        "symbol": "\u6b27\u6613\u4eba\u751f",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xfa966a1302e3c49872131999b80a5b9f11e5c336",
+        "name": "Make okxokb great again",
+        "symbol": "MOGA",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xee50faacd03326eb7c28077638d30610a03afca5",
+        "name": "XShark",
+        "symbol": "XSHARK",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xa2ac9e2c12c9407680d48b6469655597976f1cdb",
+        "name": "OKCAT",
+        "symbol": "OKCAT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xcc92e8d390912c66b80ff96c5d5c742d88888888",
+        "name": "YQS",
+        "symbol": "YQS",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x155b4e501ab47a6bdd1edd6a64cb0632aa8e4558",
+        "name": "TXG",
+        "symbol": "TXG",
+        "tokenType": "ERC20"
+    }
+]

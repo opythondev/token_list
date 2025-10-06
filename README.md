@@ -2,8 +2,9 @@
 
 List of top-100 tokens, grouped by network, sorted by marketcap desc (by upload date)
 
-### Press star button
-#### Make PR if you want to add any
+### Dont forget to press star button
+
+Make PR if you want to add any
 
 ### Format
 
