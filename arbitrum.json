@@ -1,0 +1,579 @@
+[
+    {
+        "tokenContractAddress": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+        "name": "USDT0",
+        "symbol": "USDT0",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0x82cbecf39bee528b5476fe6d1550af59a9db6fc0",
+        "name": "Stargate Ether Vault",
+        "symbol": "SGETH",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+        "name": "ChainLink Token",
+        "symbol": "LINK",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xba5ddd1f9d7f570dc94a51479a000e3bce967196",
+        "name": "Aave Token",
+        "symbol": "AAVE",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+        "name": "Arbitrum",
+        "symbol": "ARB",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978",
+        "name": "Curve DAO Token",
+        "symbol": "CRV",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60",
+        "name": "Lido DAO Token",
+        "symbol": "LDO",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x9623063377ad1b27544c965ccd7342f7ea7e88c7",
+        "name": "Graph Token",
+        "symbol": "GRT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x1045971c168b5294acbc8727a4f1c9e1af99f6d0",
+        "name": "Bridged FTN (OrtakSea)",
+        "symbol": "FTN",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+        "name": "Pendle",
+        "symbol": "PENDLE",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+        "name": "Bridged USDC",
+        "symbol": "USDC.e",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+        "name": "LayerZero",
+        "symbol": "ZRO",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xae7d4bf2bb00a2f4ade1c726819fcaca0e517a5b",
+        "name": "Fluid",
+        "symbol": "FLUID",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x178412e79c25968a32e89b11f63b33f733770c2a",
+        "name": "Frax Ether",
+        "symbol": "FRXETH",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x95ab45875cffdba1e5f451b950bc2e42c0053f39",
+        "name": "Staked Frax Ether",
+        "symbol": "SFRXETH",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0x0419e8bfbbb2623728c3a6129090da4ff4e48113",
+        "name": "Telcoin",
+        "symbol": "TEL",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x354a6da3fcde098f8389cad84b0182725c6c91de",
+        "name": "Compound",
+        "symbol": "COMP",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x346c574c56e1a4aaa8dc88cda8f7eb12b39947ab",
+        "name": "xSolvBTC",
+        "symbol": "XSOLVBTC",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x289ba1701c2f088cf0faf8b3705246331cb8a839",
+        "name": "Livepeer Token",
+        "symbol": "LPT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x61a1ff55c5216b636a294a07d77c6f4df10d3b56",
+        "name": "ApeX Token",
+        "symbol": "APEX",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x462cd9e0247b2e63831c3189ae738e5e9a5a4b64",
+        "name": "Euler",
+        "symbol": "EUL",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xd4d42f0b6def4ce0383636770ef773390d85c61a",
+        "name": "SushiToken",
+        "symbol": "SUSHI",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+        "name": "GMX",
+        "symbol": "GMX",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xdbb5cf12408a3ac17d668037ce289f9ea75439d7",
+        "name": "WorldMobileToken",
+        "symbol": "WMTX",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0xf42ae1d54fd613c9bb14810b0588faaa09a426ca",
+        "name": "Escrowed GMX",
+        "symbol": "ESGMX",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xaeaeed23478c3a4b798e4ed40d8b7f41366ae861",
+        "name": "Ankr Network",
+        "symbol": "ANKR",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x021289588cd81dc1ac87ea91e91607eef68303f5",
+        "name": "Spiko US T-Bills Money Market Fund",
+        "symbol": "USTBL",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0x1337420ded5adb9980cfc35f8f2b054ea86f8ab1",
+        "name": "Subsquid",
+        "symbol": "SQD",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b",
+        "name": "Wootrade Network",
+        "symbol": "WOO",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x6694340fc020c5e6b96567843da2df01b2ce1eb6",
+        "name": "StargateToken",
+        "symbol": "STG",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x46d0ce7de6247b0a95f67b43b589b4041bae7fbe",
+        "name": "LoopringCoin V2",
+        "symbol": "LRC",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0x4cb9a7ae498cedcbb5eae9f25736ae7d428c9d66",
+        "name": "Xai",
+        "symbol": "XAI",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x040d1edc9569d4bab2d15287dc5a4f10f56a56b8",
+        "name": "Balancer",
+        "symbol": "BAL",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af",
+        "name": "Spell Token",
+        "symbol": "SPELL",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xe4dddfe67e7164b0fe14e218d80dc4c08edc01cb",
+        "name": "Kyber Network Crystal v2",
+        "symbol": "KNC",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x3a8b787f78d775aecfeea15706d4221b40f345ab",
+        "name": "CelerToken",
+        "symbol": "CELR",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x539bde0d7dbd336b79148aa742883198bbf60342",
+        "name": "MAGIC",
+        "symbol": "MAGIC",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xcded6b899edba762d793f44ed295248049440e1e",
+        "name": "Fidelity ILF USD Fund Class G Acc",
+        "symbol": "FIUSD",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xa970af1a584579b618be4d69ad6f73459d112f95",
+        "name": "Synth sUSD",
+        "symbol": "SUSD",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0x7f850b0ab1988dd17b69ac564c1e2857949e4dee",
+        "name": "Lift Dollar",
+        "symbol": "USDL",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0xabd587f2607542723b17f14d00d99b987c29b074",
+        "name": "SmarDex Token",
+        "symbol": "SDEX",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xb4357054c3da8d46ed642383f03139ac7f090343",
+        "name": "Port3 Network",
+        "symbol": "PORT3",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+        "name": "HeyAnon",
+        "symbol": "ANON",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xae6aab43c4f3e0cea4ab83752c278f8debaba689",
+        "name": "dForce",
+        "symbol": "DF",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+        "name": "Staked Frax USD",
+        "symbol": "SFRXUSD",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+        "name": "Radiant",
+        "symbol": "RDNT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xdadeca1167fe47499e53eb50f261103630974905",
+        "name": "Neuron",
+        "symbol": "NRN",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x4425742f1ec8d98779690b5a3a6276db85ddc01a",
+        "name": "The Doge NFT",
+        "symbol": "DOG",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x7767aca54253863102887ceb11bb23e95329ddec",
+        "name": "Hanu Yokia",
+        "symbol": "HANU",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0x5575552988a3a80504bbaeb1311674fcfd40ad4b",
+        "name": "Sperax",
+        "symbol": "SPA",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x193f4a4a6ea24102f49b931deeeb931f6e32405d",
+        "name": "TLOS",
+        "symbol": "TLOS",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0x753d224bcf9aafacd81558c32341416df61d3dac",
+        "name": "Perpetual",
+        "symbol": "PERP",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0x11e969e9b3f89cb16d686a03cd8508c9fc0361af",
+        "name": "Axelar Wrapped LAVA",
+        "symbol": "LAVA",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x6e4cc0ab2b4d2edafa6723cfa1582229f1dd1be1",
+        "name": "Z.com USD",
+        "symbol": "ZUSD",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0x3405e88af759992937b84e58f2fe691ef0eea320",
+        "name": "Frax Price Index Share",
+        "symbol": "FPIS",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0xbfbcfe8873fe28dfa25f1099282b088d52bbad9c",
+        "name": "Equilibria Token",
+        "symbol": "EQB",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x09e18590e8f76b6cf471b3cd75fe1a1a9d2b2c2b",
+        "name": "AIDOGE",
+        "symbol": "AIDOGE",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x3b60ff35d3f7f62d636b067dd0dc0dfdad670e4e",
+        "name": "Milady",
+        "symbol": "LADYS",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xb1c3960aeeaf4c255a877da04b06487bba698386",
+        "name": "Beincom",
+        "symbol": "BIC",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xca7dec8550f43a5e46e3dfb95801f64280e75b27",
+        "name": "SWEAT",
+        "symbol": "SWEAT",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0x092baadb7def4c3981454dd9c0a0d7ff07bcfc86",
+        "name": "MOR",
+        "symbol": "MOR",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x641441c631e2f909700d2f41fd87f0aa6a6b4edb",
+        "name": "dForce USD",
+        "symbol": "USX",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xa61f74247455a40b01b0559ff6274441fafa22a3",
+        "name": "Magpie Token",
+        "symbol": "MGP",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xf75ee6d319741057a82a88eeff1dbafab7307b69",
+        "name": "Kryll",
+        "symbol": "KRL",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
+        "name": "Aura",
+        "symbol": "AURA",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x99f40b01ba9c469193b360f72740e416b17ac332",
+        "name": "MATH Token",
+        "symbol": "MATH",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0x0c5fa0e07949f941a6c2c29a008252db1527d6ee",
+        "name": "OpulousToken",
+        "symbol": "OPUL",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x7ba4a00d54a07461d9db2aef539e91409943adc9",
+        "name": "Stake DAO Token",
+        "symbol": "SDT",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0xb08d8becab1bf76a9ce3d2d5fa946f65ec1d3e83",
+        "name": "GammaSwap",
+        "symbol": "GS",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+        "name": "MUX Protocol",
+        "symbol": "MCB",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xbbea044f9e7c0520195e49ad1e561572e7e1b948",
+        "name": "MZR",
+        "symbol": "MZR TOKEN",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xa78d8321b20c4ef90ecd72f2588aa985a4bdb684",
+        "name": "Autonomi",
+        "symbol": "ANT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xd77b108d4f6cefaa0cae9506a934e825becca46e",
+        "name": "WINR",
+        "symbol": "WINR",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x9e758b8a98a42d612b3d38b66a22074dc03d7370",
+        "name": "Symbiosis",
+        "symbol": "SIS",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8",
+        "name": "Camelot token",
+        "symbol": "GRAIL",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x8038f3c971414fd1fc220ba727f2d4a0fc98cb65",
+        "name": "dHedge DAO Token",
+        "symbol": "DHT",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0x1c43d05be7e5b54d506e3ddb6f0305e8a66cd04e",
+        "name": "ZTX",
+        "symbol": "ZTX",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+        "name": "Axelar Wrapped USDC",
+        "symbol": "AXLUSDC",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x848e0ba28b637e8490d88bae51fa99c87116409b",
+        "name": "Agave",
+        "symbol": "AGVE",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb",
+        "name": "Wrapped PAW",
+        "symbol": "WPAW",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x3212dc0f8c834e4de893532d27cc9b6001684db0",
+        "name": "Pear",
+        "symbol": "PEAR",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x2ac2b254bc18cd4999f64773a966e4f4869c34ee",
+        "name": "Penpie Token",
+        "symbol": "PNP",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x95146881b86b3ee99e63705ec87afe29fcc044d9",
+        "name": "Vertex",
+        "symbol": "VRTX",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x812f2d5ff6088ed7a655567dbcdf0d42cf07ca38",
+        "name": "Grix",
+        "symbol": "GRIX",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0x26d3c0d9f4cc4c130097b6afdebe4f5e497e6bdf",
+        "name": "Mynth",
+        "symbol": "MNT",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0xaef5bbcbfa438519a5ea80b4c7181b4e78d419f2",
+        "name": "Rai Reflex Index",
+        "symbol": "RAI",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0xacc51ffdef63fb0c014c882267c3a17261a5ed50",
+        "name": "StrykeToken",
+        "symbol": "SYK",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x32eb7902d4134bf98a28b963d26de779af92a212",
+        "name": "Dopex Rebate Token",
+        "symbol": "RDPX",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xaaa6c1e32c55a7bfa8066a6fae9b42650f262418",
+        "name": "Ramses",
+        "symbol": "RAM",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xf4d48ce3ee1ac3651998971541badbb9a14d7234",
+        "name": "Cream",
+        "symbol": "CREAM",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0x13a7dedb7169a17be92b0e3c7c2315b46f4772b3",
+        "name": "Boop",
+        "symbol": "BOOP",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x580e933d90091b9ce380740e3a4a39c67eb85b4c",
+        "name": "GameSwift",
+        "symbol": "GSWIFT",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0xac7952d30850c9d214b0f44cbe213781b4dacf05",
+        "name": "Balanced Token",
+        "symbol": "BALN",
+        "tokenType": "ERC20"    },
+    {
+        "tokenContractAddress": "0xca4e51f6ad4afd9d1068e5899de9dd7d73f3463d",
+        "name": "AARK Token",
+        "symbol": "AARK",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x7e7a7c916c19a45769f6bdaf91087f93c6c12f78",
+        "name": "Eigenpie",
+        "symbol": "EGP",
+        "tokenType": "ERC20"
+    },
+    {
+        "tokenContractAddress": "0x3096e7bfd0878cc65be71f8899bc4cfb57187ba3",
+        "name": "Xend Real World Asset",
+        "symbol": "RWA",
+        "tokenType": "ERC20"
+    }
+]
